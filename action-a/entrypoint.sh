@@ -1,3 +1,3 @@
-#!/bin/sh -1
+#!/bin/sh -i
 
 sh -c "echo Hello world my name is Josiah"
